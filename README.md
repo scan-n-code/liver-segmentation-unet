@@ -112,6 +112,9 @@ After the first run you can set `REBUILD_DATASET = False` to skip the PNG conver
 
 - Bilic et al., *The Liver Tumor Segmentation Benchmark (LiTS)*.
 - Ronneberger et al., *U-Net: Convolutional Networks for Biomedical Image Segmentation*, 2015.
+  
+  ## Development note
+- This project was developed with AI coding assistance. I designed the pipeline, ran it, and reviewed the results and limitations.
 
 ## Author
 
