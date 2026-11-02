@@ -1,4 +1,5 @@
 # Liver Segmentation from CT using U-Net
+ **Disclaimer:** This is an educational/research project. It is not a medical device and must not be used for clinical decisions.
 
 A 2D U-Net (TensorFlow/Keras) that segments the liver on axial abdominal CT slices, trained on the LiTS (Liver Tumor Segmentation) dataset. The whole pipeline (NIfTI to PNG conversion, patient-wise split, training and testing) is in a single script.
 
